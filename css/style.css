@@ -84,6 +84,11 @@ nav a:active {
     
 }
 
+figure {
+    display: inline-block;
+    vertical-align: top;
+}
+
 
 
 

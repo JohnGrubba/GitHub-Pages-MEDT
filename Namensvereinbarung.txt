@@ -1,0 +1,6 @@
+KEINE Großbuchstaben
+KEINE Leerzeichen
+KEINE Sonderzeichen außer . - _ 
+KEINE Umlaute öäüß
+
+Erlaubt: Kleinbuchstaben, Ziffern, . - _

@@ -1,0 +1,101 @@
+
+
+
+body
+{
+    background-color: #ccffcc;
+    font-size: 1em;
+    font-family: ISOCPEUR, fantasy;
+    font-style: italic;
+
+}
+h1 {
+    font-size: 2em;
+    /* font-size: 120%; */
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    color: green;
+}
+
+.header7 {
+    color: #FF0000;
+    border-bottom: dotted 3px #ff0000;
+}
+
+
+.box {
+    border-style: dotted dashed solid double;
+    border-width: 5px 20px;
+    border-color: #DDB74D;
+    background-color: #D36821;
+    color: #6C3611;
+    width: 500px;
+    height: 250px;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: justify;
+}
+
+ul {
+    list-style-type: "=> ";
+}
+ul ul{
+    list-style-type: disc;
+}
+ul ul ul {
+    list-style-type: "> ";
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ol ol {
+    list-style-type: lower-roman;
+}
+nav * {
+    margin: 0;
+    padding: 0;
+}
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    display: inline-block;
+}
+nav a {
+    text-decoration: none;
+    border: outset 5px red;
+    background-color: #ff3333;
+    color: black;
+    border-radius: 0.5em;
+    padding: 0 10px 0 10px;
+    
+}
+nav a:hover {
+    color: white;
+}
+nav a:active {
+    border: inset 5px red;
+    padding: 0 8px 0 12px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
